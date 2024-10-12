@@ -12,7 +12,6 @@
   
 👨‍💻 -> Developed in <strong>Python</strong>.<br>
 🌍 -> Tool in <strong>English</strong>.<br>
-💻 ->  Only available on <strong>Linux</strong>.<br>
 🔎 -> <strong>No malware</strong> or <strong>backdoor</strong>.<br>
 📂 -> <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
 🔄 -> <strong>Frequently updated</strong>.<br>
