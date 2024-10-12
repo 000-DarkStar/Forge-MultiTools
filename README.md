@@ -1,8 +1,5 @@
 ![image](https://github.com/user-attachments/assets/32faa3bd-0e43-42c5-b809-859034195b8d)
-<h1 align="center">soon..</h1> 
-<h1 align="center"><img src="azoth.png" width="40px"> Azoth Multi-Tool <img src="azoth.png" width="40px"></h1> 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
+
 
 </p>
 <img align="center" src="Img/RedTiger.png" width="99999px">
@@ -27,20 +24,20 @@
 <h1>🔒・Requirements:</h1>
 
 </p>
-<h3>Linux:</h3>
+<h3>Windows & Linux :</h3>
 <p>
 - Latest version of <a href="https://www.python.org/downloads/">Python</a>.<br>
 - Install <a href="https://www.win-rar.com/postdownload.html?&L=10">Winrar</a>.<br>
-- Linux recent version.
+- Start setup.bat>SETUP</a>.<br>
 </p>
 
 ```
-Or
+START
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/000-DarkStar/Azoth-Tool.git"
-3 - Write "cd Azoth-Tool"
-4 - Write "python multi_tools.py"
+2 - Write "git clone https://github.com/000-DarkStar/Forge-MultiTools.git"
+3 - Write "cd Forge-MultiTools 1.5"
+4 - Write "python forge.py"
 
 </p>
 
