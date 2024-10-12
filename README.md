@@ -33,10 +33,8 @@
 ```
 START
 ```
-1 - Open a terminal.
-2 - Write "git clone https://github.com/000-DarkStar/Forge-MultiTools.git"
-3 - Write "cd Forge-MultiTools 1.5"
-4 - Write "python forge.py"
+1- Install the release version
+
 
 </p>
 
