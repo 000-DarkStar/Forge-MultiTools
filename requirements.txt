@@ -1,0 +1,7 @@
+subprocess
+os
+colorama
+colorate
+requests
+pystyle
+Fore

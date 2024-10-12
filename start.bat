@@ -1,0 +1,2 @@
+python forge.py
+pause
